@@ -304,8 +304,25 @@ $treatment = isset($_GET['treatment']) ? $_GET['treatment'] : null;
             echo '<article class="presa">
                     <img src="../img/img-2.png" alt="Greffe">
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptas vel neque iure, corrupti a minus! Impedit magni, necessitatibus officiis eligendi id laboriosam at soluta aspernatur explicabo repellat similique consequatur.
-                    </p>
+            La greffe de sourcils par méthode FUE (Follicular Unit Extraction) est une technique avancée de médecine esthétique visant à restaurer ou à améliorer la densité des sourcils.<br>
+            Cette méthode a gagné en popularité au cours des dernières décennies, notamment grâce aux progrès technologiques dans le domaine de la transplantation capillaire.<br><br>
+
+            L’histoire de la greffe de sourcils remonte à plusieurs années, mais c\'est avec l\'émergence de la méthode FUE dans les années 2000 que les résultats esthétiques sont devenus plus naturels et satisfaisants.<br>
+            Contrairement aux méthodes traditionnelles, la FUE permet d’extraire individuellement les unités folliculaires sans laisser de cicatrices linéaires, ce qui est particulièrement important pour une zone aussi délicate que les sourcils.<br><br>
+
+            Le fonctionnement de cette méthode repose sur l\'extraction de follicules pileux situés généralement à l\'arrière ou sur les côtés de la tête.<br>
+            Une fois extraits, ces follicules sont ensuite implantés dans la zone des sourcils selon un motif soigneusement planifié pour garantir un aspect naturel.<br><br>
+
+            Voici les principales étapes de la greffe de sourcils par méthode FUE :<br>
+            Consultation initiale : Évaluation des besoins et des attentes du patient, ainsi que détermination de la forme idéale des sourcils.<br>
+            Préparation : Nettoyage de la zone donneuse et anesthésie locale pour assurer le confort optimal du patient pendant la procédure.<br>
+            Extraction des follicules : Utilisation d\'un appareil de prélèvement infra millimétrique (0,85 mm) pour extraire les unités folliculaires de manière individuelle avec des cicatrices “invisibles”.<br>
+            Préparation des follicules : Tri et préparation des follicules extraits pour garantir leur viabilité lors de l\'implantation.<br>
+            Implantation : Insertion des follicules dans la zone des sourcils à l\'aide de techniques microchirurgicales pour un résultat naturel.<br>
+            Suivi post-opératoire : Suivi de l’évolution pour un résultat définitif à 9 mois.<br><br>
+
+            La greffe de sourcils par méthode FUE permet d\'obtenir des résultats durables et esthétiquement plaisants, offrant une solution efficace pour ceux qui souhaitent améliorer la forme ou la densité de leurs sourcils.
+        </p>
                   </article>';
             break;
         case 'injections':
@@ -441,8 +458,23 @@ $treatment = isset($_GET['treatment']) ? $_GET['treatment'] : null;
             echo '<article class="presa">
                     <img src="../img/img-2.png" alt="">
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptas vel neque iure, corrupti a minus! Impedit magni, necessitatibus officiis eligendi id laboriosam at soluta aspernatur explicabo repellat similique consequatur.
-                    </p>
+            La régénération cutanée par laser fractionné non ablatif, comme le système ORIGIN de chez Deleo, est une technique avancée de médecine esthétique conçue pour améliorer la texture de la peau et atténuer les signes de vieillissement.<br>
+            Contrairement aux lasers ablatifs, qui retirent les couches supérieures de la peau, les lasers non ablatifs ciblent les couches plus profondes sans endommager la surface, ce qui permet une récupération rapide.<br><br>
+
+            Le déroulement d\'une séance commence par une consultation, durant laquelle le praticien évalue les besoins spécifiques de chaque patient.<br>
+            Ensuite, une anesthésie locale peut être appliquée pour garantir le confort durant le traitement.<br>
+            Le laser ORIGIN émet des impulsions lumineuses qui pénètrent la peau, créant de minuscules zones de chaleur dans le derme.<br>
+            Cela stimule la production de collagène et d’élastine, deux composants essentiels à l’élasticité et à la fermeté de la peau.<br><br>
+
+            En général, un plan de traitement consiste en plusieurs séances, souvent espacées de trois à quatre semaines.<br>
+            Les patients peuvent commencer à voir des améliorations notables de la texture et de l’apparence de leur peau après la deuxième séance.<br>
+            Les résultats optimaux se manifestent généralement après six mois, lorsque la production de collagène est à son maximum.<br><br>
+
+            Concernant la stimulation de la repousse des cheveux, des études ont montré l’efficacité des lasers non ablatifs dans ce domaine.<br>
+            Un article publié dans le *Journal of Cosmetic Dermatology* a révélé que les traitements au laser fractionné non ablatif peuvent également favoriser la circulation sanguine et revitaliser les follicules pileux, aidant ainsi à la repousse des cheveux.<br><br>
+
+            En résumé, la régénération cutanée par laser fractionné non ablatif, comme le traitement ORIGIN, est une solution efficace pour améliorer l\'apparence de la peau mais également la qualité du cuir chevelu afin de lutter contre l’alopécie.
+        </p>
                   </article>';
             break;
         case 'radiess-injection':
